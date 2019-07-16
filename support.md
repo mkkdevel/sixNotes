@@ -10,19 +10,8 @@
  
  ---
  
- #### iCloud Sync ####
- 
- In sixNotes you can sync your note content and color across all your iOS devices. 
- Due to different screen sizes, font size is not synced.
- 
- To turn on/off iCloud sync use the longTap menu. 
- 
- **Warning:** If you have content in the same note on different devices, sixNotes uses always the last modified note.
-    So older content will be deleted.
-    
- ---
- 
- #### Privacy ####
+  
+#### Privacy ####
  
  We respect your privacy!
  So no data or any using/usage information are logged, storerd or sent to us.
